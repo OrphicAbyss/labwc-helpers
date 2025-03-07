@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "wayland-client": "^1.2.0"
+  }
+}
